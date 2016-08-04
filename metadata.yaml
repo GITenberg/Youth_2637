@@ -1,0 +1,36 @@
+_repo: Youth_2637
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hogarth, C. J.
+    gutenberg_agent_id: '835'
+    url: http://www.gutenberg.org/2009/agents/835
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Moscow (Russia) -- Social conditions -- Fiction'
+- GITenberg
+title: Youth
+url: http://www.gutenberg.org/ebooks/2637
