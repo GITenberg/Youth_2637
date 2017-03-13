@@ -1,10 +1,13 @@
 _repo: Youth_2637
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hogarth, C. J.
     gutenberg_agent_id: '835'
     url: http://www.gutenberg.org/2009/agents/835
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2637#Youth
 gutenberg_issued: '2001-05-01'
 gutenberg_type: Text
 identifiers:
